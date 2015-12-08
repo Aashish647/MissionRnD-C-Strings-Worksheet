@@ -11,6 +11,7 @@ ERROR CASES: Return '\0' for invalid inputs.
 NOTES: Don't create new string.
 */
 
-char removeSpaces(char *str) {
+char removeSpaces(char *str) 
+{
 	return '\0';
 }
