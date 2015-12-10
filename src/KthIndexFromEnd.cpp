@@ -29,7 +29,6 @@ char KthIndexFromEnd(char *str, int K)
 	{ 
 	}
 	return str[len];
-	
 }
 
 int findLen(char *s)
